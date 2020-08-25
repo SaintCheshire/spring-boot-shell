@@ -1,3 +1,9 @@
+# IntelliJ IDEA project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
 # Project exclude paths
 /application/target/
 /cli/target/
